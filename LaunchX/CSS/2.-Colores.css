@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+.colorRojo{
+    color: red;
+}
+
+.colorRGB{
+    color: rgb(24, 20, 245);
+}
+
+.colorRGBA{
+    color: rgba(19, 77, 19, 0.6);
+}
+
+.colorHEX{
+    color: hsl(304, 63%, 38%);
+}
+
+.colorHSL{
+    color: hsl(30, 34%, 39%);
+}
